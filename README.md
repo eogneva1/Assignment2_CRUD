@@ -10,7 +10,7 @@ Features
 
     Product Search: Users can search for products based on the product name, which helps in quickly locating specific products.
 
-U   ser Management: Basic user management routes are also provided, allowing for future expansion into user-specific features.
+User Management: Basic user management routes are also provided, allowing for future expansion into user-specific features.
 
 API Endpoints
 
