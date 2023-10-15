@@ -6,10 +6,8 @@ Description
     This application provides CRUD operations for products in a dress store. Users can add, update, retrieve, and delete products. Additionally, there's functionality to search for products by their names.
 
 Features
-    CRUD Operations: The main highlight of this application is to provide full CRUD (Create, Read, Update, Delete) operations for products.
-
-    Product Search: Users can search for products based on the product name, which helps in quickly locating specific products.
-
+CRUD Operations: The main highlight of this application is to provide full CRUD (Create, Read, Update, Delete) operations for products.
+Product Search: Users can search for products based on the product name, which helps in quickly locating specific products.
 User Management: Basic user management routes are also provided, allowing for future expansion into user-specific features.
 
 API Endpoints
@@ -40,7 +38,7 @@ API Endpoints
 
             Search Products by Name:
             Method: GET
-            Endpoint: /api/products/search/:kw
+            Endpoint: /api/products?name'kw'
 
 
 
