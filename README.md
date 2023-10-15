@@ -2,9 +2,11 @@
 
 Welcome to the dressStore application, a simple product management API built with Node.js, Express, and MongoDB.
 
+
 Description
 
 This application provides CRUD operations for products in a dress store. Users can add, update, retrieve, and delete products. Additionally, there's functionality to search for products by their names.
+
 
 Features
 
@@ -49,13 +51,19 @@ API Endpoints
 Dependencies
 
 Express: The main framework for building the web application.
+
 Mongoose: Used for defining models and handling database operations with MongoDB.
+
 MongoDB: The main database used for storing product details.
+
 EJS: A potential view engine if views are to be implemented in the future.
+
 Dotenv: Used for handling environment variables.
+
 
 Development Dependencies
 
 Nodemon: Utility that monitors for any changes in the source and automatically restarts the server.
+
 
 Author @Elena Ogneva
